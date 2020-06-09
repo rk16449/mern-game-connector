@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "gamer-chatbot",
+  "private_key_id": "448e13cd0af970405ee8c67cfe391812904621aa",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCjH+2+PKtMCP37\n1RWPmQhSjOmkL5CitdLUBAbSWUz+nIASRMg5oclY2Ilp5i/BNhKyNsr4Y7JINifH\nyhfTIxYgV4gBrs2LB7q25rZ8MhvP7kMdvJzUFpJPztMmZZZd6xPFTzXL+fbOy8pZ\nDu1YzTbpxF4gJOfSMQtTS+jfJRLri9SqO8TxgbPPheQnWQOx8Ap4+TMpnigNUFnq\nsUn6eGOwII+5m6qYdYa4S9jPBsI3OceKe+kKXpM7bwjQoIWKRfDgh1FURYlakCJr\nXxXvGoxBZENnqQREhwLAKSHsvr/sgqjdW9gZM6sKQToduXXc/wwiv817blGEX2H1\nq2/YsS2RAgMBAAECggEAAXHz/ci39A9rSSy9BKknh0Sk7w1cJ/nQoQX5WNSeUXQs\n3KpI5pPmp9DFX9QoJsR+js/0vaf5l9whoOXvs2H7Hr+D9X0AH2Yqxge0NxFoMehn\nxLcsT3Vclv1pGi5upGz6jRMaf6ScGK+GmJp6m5LosxVsxLbAgofKFJYkNzbRak5Z\nXWo+mbf0sd5cVV4J4u5HzP6+nA1SNrWbWyizVRNWuRZmnRBFIeWBIUgDV5PwFERf\nyb1XsYGMjp1Pka6dyaXhCSnk0An2qIk3TMlRTjRfFNxNjGSg/fkApcG1L+6l9p6H\n+bfUgYRAR9qtAO6JeUOSfvw/eeflSZFZHWx9rvsHmQKBgQDWOY/u/NfXqFRNFzO7\nxcKQrg86zZ4qvLKTIjLyd4VjPtpm7bSRLoB1k9lZ13MdqvDji2O9WFWCBlmsv38W\n1mHBacSk2kzjRKxu+6XRvet0zdq+aox0CiXwVqt9ET3W+kjVMk5IOuFOCwji8SI3\nUSOkRo48axmoCC5EDx0kDlXkFQKBgQDC715R/5aflQM0JHay0Z3vm8nMoRvpxlFi\nH8hWXxiBn+Jbt97zQLZZZDFMxC4IzMvM8dHMhaLpjot6g9Y3GlVT/VDvgYjEDuk4\ny3KX9VxBRMFjrOEUEqf6BpvJx/Rv00eJq+pjdyWitiEg6etghb9wbsyXIzCJTZfl\n7hQR7RXWjQKBgQCg+7bHEGifHlbja7krtUwl7zdwqA3g7daALOX+QYUSdKwpRx43\nL6vHL6jZE8flFo1ZYWk9Y8E2KdF/uJQntEjX0MS+YXIAI5409JTCjib/qqZkC6uq\nk+m4t1i9bpR7FbBfziL3so+XV0GBUVW2Hhpbm83NZ2prVGJ4MKdkbgVrlQKBgQCY\n2ArCjH7TnYknhzeyufz19Nbjpac3Q5JoN7djUajraiuX8rHTVXgk2xR0tpXJvJpH\nlYwEqvuz2Vqvs1NxXSpucn7VbGGKKI7hQ1QUpgOyAXEI8HKCxKYEus3IBwo37Bd5\ncNyVJMTTsa6EGiW+RuB2DcpI7wSNg9OIK4Z9D8JBuQKBgDyy7zcqjw/VJbN/uPDR\nMItA4HS9bz7L4jwRdUr0n8SWdsgdbvdwpup7GZjYYWz+Wnx4lhvjTjfPGLAd4krK\n/mStZM/ZyttnfHrTf7h96yLk8SDcgSRJCrMd+n2kjlOpIurk6i0a1W9Pre0Ti7R1\njk9pmN90su+J8L+o3Itwa1LG\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-hlkmuk@gamer-chatbot.iam.gserviceaccount.com",
+  "client_id": "111339867572392897922",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-hlkmuk%40gamer-chatbot.iam.gserviceaccount.com"
+}

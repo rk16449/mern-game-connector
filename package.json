@@ -1,0 +1,44 @@
+{
+  "name": "mern-devblog",
+  "version": "1.0.0",
+  "description": "Chatbot project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "server": "nodemon server",
+    "client": "npm start --prefix client",
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix client && npm run build --prefix client",
+    "doc": "react-doc-generator client/src -o DOCUMENTATION.md"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ec16449/mern-devblog.git"
+  },
+  "author": "Raj Kadir",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ec16449/mern-devblog/issues"
+  },
+  "homepage": "https://github.com/ec16449/mern-devblog#readme",
+  "dependencies": {
+    "actions-on-google": "^2.12.0",
+    "axios": "^0.19.2",
+    "bcryptjs": "^2.4.3",
+    "config": "^3.3.1",
+    "dialogflow": "^1.2.0",
+    "dialogflow-fulfillment": "^0.6.1",
+    "express": "^4.17.1",
+    "express-validator": "^6.4.1",
+    "gravatar": "^1.8.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.9.13",
+    "react-select": "^3.1.0",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "concurrently": "^5.2.0",
+    "nodemon": "^2.0.3",
+    "react-doc-generator": "^1.2.5"
+  }
+}
